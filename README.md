@@ -10,7 +10,6 @@
 <p>🛠 I perform both in the front and backend </p>
 <p>🎓  I am in continuous learning. Always looking for new technologies to learn.</p>
 <p>⚡ I'm interested about technology, web programming and the IT industry. </p>
-<p>✉️ You can shoot me an email at kazalukianpablo@gmail.com! </p>
 
 <h2>Projects  </h2>
 
