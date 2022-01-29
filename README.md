@@ -23,10 +23,10 @@
 </p>
   <h6>some views </h6>
   <div>
-  <a href="https://imgur.com/jXk7q75.png"><img src="https://i.imgur.com/jXk7q75.png" title="source: imgur.com" width="440" height="440" /></a>
-  <a href="https://imgur.com/XI5hPVF"><img src="https://i.imgur.com/XI5hPVF.png" title="source: imgur.com" width="440" height="440" /></a>
-  <a href="https://imgur.com/zdZPQzi"><img src="https://i.imgur.com/zdZPQzi.png" title="source: imgur.com" width="440" height="440" /></a>
-  <a href="https://imgur.com/xP1iMRE"><img src="https://i.imgur.com/xP1iMRE.png" title="source: imgur.com" width="440" height="440" /></a>
+  <a href="https://imgur.com/jXk7q75.png"><img src="https://i.imgur.com/jXk7q75.png" title="source: imgur.com" width="400" height="400" /></a>
+  <a href="https://imgur.com/XI5hPVF.png"><img src="https://i.imgur.com/XI5hPVF.png" title="source: imgur.com" width="400" height="400" /></a>
+  <a href="https://imgur.com/zdZPQzi.png"><img src="https://i.imgur.com/zdZPQzi.png" title="source: imgur.com" width="400" height="400" /></a>
+  <a href="https://imgur.com/xP1iMRE.png"><img src="https://i.imgur.com/xP1iMRE.png" title="source: imgur.com" width="400" height="400" /></a>
   <div>
     <h6>soon deploying...</h6>
 <br/> <br/>
