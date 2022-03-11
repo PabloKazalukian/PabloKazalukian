@@ -27,7 +27,7 @@
   <a href="https://imgur.com/zdZPQzi.png"><img src="https://i.imgur.com/zdZPQzi.png" title="source: imgur.com" width="400" height="400" /></a>
   <a href="https://imgur.com/xP1iMRE.png"><img src="https://i.imgur.com/xP1iMRE.png" title="source: imgur.com" width="400" height="400" /></a>
   <div>
-   <h6><a href="vgamming.vercel.app/" target="_blank" rel="noreferrer">vgamming.app</a></h6>
+   <h6><a href="https://vgamming.vercel.app/" target="_blank" rel="noreferrer">vgamming.app</a></h6>
 <br/> <br/>
 
 <h3 align="left">Languages and Tools: </h3>
